@@ -1,4 +1,4 @@
-# i-lem
+# islem
 import java.util.Scanner;
 
 public class day8 {
