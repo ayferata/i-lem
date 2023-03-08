@@ -31,5 +31,8 @@ public class day8 {
             System.out.println("Lütfen Geçerli Bir İşlem Giriniz !! ");
         }
         System.out.println("Sonuç = " + sonuc);
-    }
+  
+ }
+ 
 }
+
